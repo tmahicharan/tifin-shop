@@ -5,8 +5,9 @@
 * Dosa batter 
 * Lite oil
 
-# EGG -Dosa-ramesh
+
+# EGG-Dosa
 
 * Dosa batter
 * oil
-* Egg karam
+* 1/2 Eggs karam
